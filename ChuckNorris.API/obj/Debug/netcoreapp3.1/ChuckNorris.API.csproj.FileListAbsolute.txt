@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\LogItPe21\ChuckNorris.API\ChuckNorris.API\bin\Debug\netcoreapp3.1\ChuckNorris.API.exe
+C:\Users\opilane\source\repos\LogItPe21\ChuckNorris.API\ChuckNorris.API\bin\Debug\netcoreapp3.1\ChuckNorris.API.deps.json
+C:\Users\opilane\source\repos\LogItPe21\ChuckNorris.API\ChuckNorris.API\bin\Debug\netcoreapp3.1\ChuckNorris.API.runtimeconfig.json
+C:\Users\opilane\source\repos\LogItPe21\ChuckNorris.API\ChuckNorris.API\bin\Debug\netcoreapp3.1\ChuckNorris.API.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LogItPe21\ChuckNorris.API\ChuckNorris.API\bin\Debug\netcoreapp3.1\ChuckNorris.API.dll
+C:\Users\opilane\source\repos\LogItPe21\ChuckNorris.API\ChuckNorris.API\bin\Debug\netcoreapp3.1\ChuckNorris.API.pdb
+C:\Users\opilane\source\repos\LogItPe21\ChuckNorris.API\ChuckNorris.API\obj\Debug\netcoreapp3.1\ChuckNorris.API.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LogItPe21\ChuckNorris.API\ChuckNorris.API\obj\Debug\netcoreapp3.1\ChuckNorris.API.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LogItPe21\ChuckNorris.API\ChuckNorris.API\obj\Debug\netcoreapp3.1\ChuckNorris.API.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LogItPe21\ChuckNorris.API\ChuckNorris.API\obj\Debug\netcoreapp3.1\ChuckNorris.API.dll
+C:\Users\opilane\source\repos\LogItPe21\ChuckNorris.API\ChuckNorris.API\obj\Debug\netcoreapp3.1\ChuckNorris.API.pdb
+C:\Users\opilane\source\repos\LogItPe21\ChuckNorris.API\ChuckNorris.API\obj\Debug\netcoreapp3.1\ChuckNorris.API.genruntimeconfig.cache
+C:\Users\opilane\source\repos\LogItPe21\ChuckNorris.API\ChuckNorris.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\opilane\source\repos\LogItPe21\ChuckNorris.API\ChuckNorris.API\obj\Debug\netcoreapp3.1\ChuckNorris.API.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LogItPe21\ChuckNorris.API\ChuckNorris.API\obj\Debug\netcoreapp3.1\ChuckNorris.API.csproj.CopyComplete
